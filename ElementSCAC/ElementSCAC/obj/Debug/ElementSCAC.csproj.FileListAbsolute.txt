@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\ElementSCAC\ElementSCAC\bin\Debug\ElementSCAC.exe.config
+C:\Users\ahmet\source\repos\ElementSCAC\ElementSCAC\bin\Debug\ElementSCAC.exe
+C:\Users\ahmet\source\repos\ElementSCAC\ElementSCAC\bin\Debug\ElementSCAC.pdb
+C:\Users\ahmet\source\repos\ElementSCAC\ElementSCAC\obj\Debug\ElementSCAC.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\ElementSCAC\ElementSCAC\obj\Debug\ElementSCAC.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\ElementSCAC\ElementSCAC\obj\Debug\ElementSCAC.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\ElementSCAC\ElementSCAC\obj\Debug\ElementSCAC.exe
+C:\Users\ahmet\source\repos\ElementSCAC\ElementSCAC\obj\Debug\ElementSCAC.pdb
